@@ -22,8 +22,8 @@ DXC LawBot is an interactive chatbot application that allows users to ask questi
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/RAG-lawbot.git
-   cd RAG-lawbot
+   git clone https://github.com/yourusername/RAG_ChatBot.git
+   cd RAG_ChatBot
 
 2. **Create and activate a virtual environment:**
 
