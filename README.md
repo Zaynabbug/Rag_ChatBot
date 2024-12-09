@@ -1,4 +1,4 @@
-# DXC LawBot
+# RAG LawBot
 
 DXC LawBot is an interactive chatbot application that allows users to ask questions about legal documents. The chatbot uses natural language processing and machine learning techniques to provide relevant answers based on the content of the uploaded PDF documents.
 
